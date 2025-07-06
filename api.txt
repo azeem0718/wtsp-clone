@@ -1,0 +1,2 @@
+// API with Promises (fetch function)
+// async await
